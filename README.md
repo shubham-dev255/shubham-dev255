@@ -13,7 +13,7 @@
 - 🛠 Built a **3D open world game** from a course  
 - 🎮 Developing a **Multiplayer Shooter Game**  
 - 📷 Passionate about **photography** of nature and surroundings  
-- 📫 Reach me at **shubhamshrivastav.dev255@gmail.com**
+- 📫 Reach me at **shrivastavshubham964@gmail.com**
 
 ---
 
