@@ -2,7 +2,8 @@
 
 🎓 Bachelor of Technology in Computer Science Engineering.<br/>
 💼 Working in Game Development Domain.<br/>  
-🛠 Currently building A 3D open world Game from a course.<br/>  
+🛠 Built A 3D open world Game from a course.<br/>  
+🛠 Currently working on a multiplayer Shooter game.<br/> 
 📷 I love taking photographs of nature and surroundings.<br/>
 🌐 Connect with me:<br/>  
  • [LinkedIn]www.linkedin.com/in/shubham-shrivastav-674652321<br/>
