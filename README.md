@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Shubham Shrivastav</h1>
 <h3 align="center">A Game Developer & Nature Lover from India 🇮🇳</h3>
 
-<img align="right" alt="Game Development" width="400" src="(https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3c2aDN0cnQ3eDJibWd3anQ3ZW52a2d1dWw2Z29xNzN5dHdmbmxkYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif)" />
+<img align="right" alt="Game Development" width="400" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" />
 
 - 🎓 Bachelor of Technology in **Computer Science Engineering**  
 - 💼 Currently working in the **Game Development Domain**  
