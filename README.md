@@ -1,10 +1,10 @@
-<!-- Banner -->
-![Header](https://user-images.githubusercontent.com/80781196/190216139-7697aa5a-c9a0-4bd6-80bf-3aca76a2e1c8.gif)
+<!-- Game Dev Banner -->
+![Game Dev Banner](https://i.imgur.com/YU5r2aV.gif)
 
 <h1 align="center">Hi 👋, I'm Shubham Shrivastav</h1>
 <h3 align="center">A Game Developer & Nature Lover from India 🇮🇳</h3>
 
-<img align="right" alt="Game Dev GIF" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+<img align="right" alt="Game Development" width="400" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" />
 
 - 🎓 Bachelor of Technology in **Computer Science Engineering**  
 - 💼 Currently working in the **Game Development Domain**  
