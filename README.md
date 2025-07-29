@@ -1,5 +1,6 @@
 <!-- Game Dev Banner -->
-![Game Dev Banner](https://i.imgur.com/YU5r2aV.gif)
+![Game Dev Banner](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3c2aDN0cnQ3eDJibWd3anQ3ZW52a2d1dWw2Z29xNzN5dHdmbmxkYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif)
+
 
 <h1 align="center">Hi 👋, I'm Shubham Shrivastav</h1>
 <h3 align="center">A Game Developer & Nature Lover from India 🇮🇳</h3>
